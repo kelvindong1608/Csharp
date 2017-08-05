@@ -1,0 +1,6 @@
+D:\LEARNING\c#\project\general1\e3_array\bin\Debug\e3_array.exe.config
+D:\LEARNING\c#\project\general1\e3_array\bin\Debug\e3_array.exe
+D:\LEARNING\c#\project\general1\e3_array\bin\Debug\e3_array.pdb
+D:\LEARNING\c#\project\general1\e3_array\obj\Debug\e3_array.csprojResolveAssemblyReference.cache
+D:\LEARNING\c#\project\general1\e3_array\obj\Debug\e3_array.exe
+D:\LEARNING\c#\project\general1\e3_array\obj\Debug\e3_array.pdb

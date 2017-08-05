@@ -1,0 +1,6 @@
+D:\LEARNING\c#\project\general1\array2\bin\Debug\array2.exe.config
+D:\LEARNING\c#\project\general1\array2\bin\Debug\array2.exe
+D:\LEARNING\c#\project\general1\array2\bin\Debug\array2.pdb
+D:\LEARNING\c#\project\general1\array2\obj\Debug\array2.exe
+D:\LEARNING\c#\project\general1\array2\obj\Debug\array2.pdb
+D:\LEARNING\c#\project\general1\array2\obj\Debug\array2.csprojResolveAssemblyReference.cache
