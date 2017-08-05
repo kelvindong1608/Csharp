@@ -1,0 +1,5 @@
+D:\LEARNING\c#\project\general\e2_if\bin\Debug\e2_if.exe.config
+D:\LEARNING\c#\project\general\e2_if\bin\Debug\e2_if.exe
+D:\LEARNING\c#\project\general\e2_if\bin\Debug\e2_if.pdb
+D:\LEARNING\c#\project\general\e2_if\obj\Debug\e2_if.exe
+D:\LEARNING\c#\project\general\e2_if\obj\Debug\e2_if.pdb

@@ -1,0 +1,6 @@
+D:\LEARNING\c#\project\general\e1\bin\Debug\e1.exe.config
+D:\LEARNING\c#\project\general\e1\bin\Debug\e1.exe
+D:\LEARNING\c#\project\general\e1\bin\Debug\e1.pdb
+D:\LEARNING\c#\project\general\e1\obj\Debug\e1.csprojResolveAssemblyReference.cache
+D:\LEARNING\c#\project\general\e1\obj\Debug\e1.exe
+D:\LEARNING\c#\project\general\e1\obj\Debug\e1.pdb
