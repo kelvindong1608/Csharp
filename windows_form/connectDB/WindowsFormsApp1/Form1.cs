@@ -38,6 +38,9 @@ namespace WindowsFormsApp1
                 {
                     MessageBox.Show("Check your info carefully!");
                 }
+                dr.Close();
+                com.Dispose();
+                con.Close();
             }
             catch (Exception ex)
             {
