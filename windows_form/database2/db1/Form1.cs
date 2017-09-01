@@ -57,7 +57,7 @@ namespace db1
             SqlConnection con = new SqlConnection(@"server = KELVIN\SQLEXPRESS;database= Login;Integrated Security =true");
             SqlCommand com2 = new SqlCommand("select LoginID,username, password,email from tLog where email = @email", con);
 
-            //string output = "";
+            string output = "";
             con.Open();
             com2.Parameters.AddWithValue("@email", textBox2.Text);
 
@@ -66,13 +66,9 @@ namespace db1
             if (dr2.HasRows == true)
             {   
                 dr2.Read();
-                int id = (int)dr2["LoginID"];
-                string user = (string)dr2["username"];
-                string pass = (string)dr2["password"];
-                string email = (string)dr2["email"];
-
-                string output = string.Format("{0} - {1} - {2} - {3}", id,user,pass,email);
-               // output = output + dr2.GetValue(0) + "-" + dr2.GetValue(1) + "-" + dr2.GetValue(2) + "-"+ dr2.GetValue(3) + "\n";
+                
+                
+                output = output + dr2.GetValue(0) + "-" + dr2.GetValue(1) + "-" + dr2.GetValue(2) + "-"+ dr2.GetValue(3) + "\n";
 
                 result.Items.Add(output);
             }
